@@ -1,0 +1,14 @@
+{
+    "chrome": {
+        "default": "latest",
+        "versions": {
+            "latest": {
+                "image": ["C:\\Users\\user\\.cache\\selenium\\chromedriver\\win64\\136.0.7103.94\\chromedriver.exe"]
+            }
+        },
+        "130.0.6723.116": {
+                "image": ["C:\\Users\\user\\.cache\\selenium\\chromedriver\\win64\\130.0.6723.116\\chromedriver.exe"]
+            }
+
+    }
+}

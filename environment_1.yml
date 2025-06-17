@@ -1,0 +1,13 @@
+name: skillbox_1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - requests
+  - selenium
+  - pytest
+  - pip
+  - pip:
+      - python-ini
+      - allure-pytest
+      - pytest-rerunfailures
