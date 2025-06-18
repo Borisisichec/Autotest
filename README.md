@@ -1,4 +1,4 @@
 Проект настроен на локальный запуск. 
 1) Если нужно запустить удалённый в файле browser.py разкоментировать с 6 по 23 строку. 
-2) Запустить соленоид в терминале: selenoid_windows_amd64.exe -conf browsers.json -disable-docker
-3) Запустить тест только через Makefile
+2) Запустить соленоид в терминале нужно перейти в папку с проектом: selenoid_windows_amd64.exe -conf browsers.json -disable-docker
+3) установить Makefile.Запустить тест только через Makefile
