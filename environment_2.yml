@@ -11,3 +11,4 @@ dependencies:
       - python-ini
       - allure-pytest
       - pytest-rerunfailures
+      - webdriver-manager
